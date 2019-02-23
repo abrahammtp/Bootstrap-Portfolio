@@ -9,13 +9,13 @@
     color: black;
     text-align: center;
     text-decoration: none;
-    background: orange;
+    background: rgba(110, 101, 101, 0.411);
   }
 
   .right-buttons {
       float: right;
       height: 90px;
-      background: orange;
+      background: rgba(110, 101, 101, 0.411);
       width: 330px;
       text-align: center;
       color: black;
@@ -31,15 +31,15 @@
   }
 
   footer {
-    padding: 40px 0;
+    padding: 20px 0;
     clear: both;
     font-size: 16px;
-    color: black;
+    color: yellow;
     text-align: center;
-    background: orange;
-    height: 50px;
+    background: rgba(110, 101, 101, 0.411);
+    height: 60px;
     font-weight: bold;
-    margin-top: 535px;
+    margin-top: 555px;
   }
 
   body {
@@ -47,5 +47,27 @@
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url(SPoW_82318_01.jpg);
+    background: url(Wiki-background.jpg);
+  }
+
+  .main-text {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 15px;
+    margin: 49 20 40 20px;
+    background: url(Wiki-background.jpg);
+    border: 1px solid black;
+    font-size: 20px;
+    text-align: justify;
+    line-height: normal;
+    color: yellow;
+  }
+
+  .profile-pic {
+      width: 200px;
+      height: 200px;
+      float: left;
+      margin-right: 25px;
+      margin-top: 5px;
   }
