@@ -7,18 +7,6 @@
     margin-top: 75px;
     text-align: justify;
   }
-  
-  /*.footer {
-    width: auto;
-    max-width: 100%;
-    border-top: 2px;
-    color: lightgray;
-    background-color: rgba(40, 39, 46, 0.7);
-    color: silver;
-    text-align: center;
-    padding-top: 20px;
-    
-  }*/
 
   .profile-pic {
       width: 200px;
@@ -50,7 +38,15 @@
 
   }
 
-  .navbg {
+  form {
+    width: auto;
+    max-width: 900px;
+    padding: 0 15px;
     background-color: rgba(40, 39, 46, 0.7);
-    color: silver
+    color: silver;
+    margin-top: 75px;
+    height: 450px;
+    margin-left: 300px;
+    padding-top: 35px;
   }
+
