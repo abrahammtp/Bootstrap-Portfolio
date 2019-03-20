@@ -3,13 +3,14 @@
 .container {
     width: auto;
     max-width: 900px;
-    padding: 15 15 45 15px;
-    background-color: rgba(40, 39, 46, 0.7);
-    color: silver;
-    margin-top: 75px;
+    padding: 0 15 25 15px;
+    background-color: rgba(40, 39, 46, 0.9);
+    color: white;
+    margin-top: 25px;
     text-align: justify;
     height: auto;
     font-size: 16px;
+    margin-top: 30px;
   }
 
   /*This is is picture I used on the index.html file*/
@@ -53,6 +54,5 @@ body {
     width: 130px;
     height: 130px;  
 }
-
 
 
